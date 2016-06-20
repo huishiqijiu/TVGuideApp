@@ -1,0 +1,12 @@
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\bin\Debug\TVGuide.exe.config
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\bin\Debug\TVGuide.exe
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\bin\Debug\TVGuide.pdb
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\obj\Debug\TVGuide.csprojResolveAssemblyReference.cache
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\obj\Debug\TVGuide.Form1.resources
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\obj\Debug\TVGuide.Properties.Resources.resources
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\obj\Debug\TVGuide.csproj.GenerateResource.Cache
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\obj\Debug\TVGuide.exe
+c:\users\hui.shi\documents\visual studio 2015\Projects\TVGuide\TVGuide\obj\Debug\TVGuide.pdb
+C:\Users\Hui\Documents\Visual Studio 2015\Projects\InlämningsUppgifter\20160519\TVGuide\TVGuide\bin\Debug\TVGuide.exe.config
+C:\Users\Hui\Documents\Visual Studio 2015\Projects\InlämningsUppgifter\20160519\TVGuide\TVGuide\obj\Debug\TVGuide.exe
+C:\Users\Hui\Documents\Visual Studio 2015\Projects\InlämningsUppgifter\20160519\TVGuide\TVGuide\obj\Debug\TVGuide.pdb
